@@ -1,0 +1,21 @@
+{
+  "appName": "Employees App",
+  "employees": {
+    "title": "Employees",
+    "cell": {
+      "age": "{} years old"
+    }
+  },
+  "employeeDetail": {
+    "title": "Employee Detail",
+    "cell": {
+      "id": "ID",
+      "name": "Name",
+      "salary": "Salary",
+      "age": "Age",
+      "ageSuffix": "{} years old"
+    },
+    "edit": "Edit",
+    "delete": "Delete"
+  }
+}
