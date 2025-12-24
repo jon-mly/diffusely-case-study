@@ -18,6 +18,7 @@ Base CRUD app interacting with a REST API to illustrate some concepts of designi
 - **Persistence**: Sembast (local database)
 - **Navigation**: go_router (Navigator 2.0)
 - **Localization**: easy_localization
+- **Structure**: Clean Architecture (presentation, domain, data layers)
 - **Design pattern**: Clean Architecture (presentation, domain, data layers)
 
 ## Getting started
